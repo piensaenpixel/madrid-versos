@@ -23,6 +23,7 @@ html,body {
 		background: #fff;
 		background: rgba(255, 255, 255, .95);
 		padding: 24px 48px;
+		border-radius: 2px;
 	}
 	.hdr-inner h1 {
 		font: 700 28px 'Proxima Nova Th';
@@ -83,6 +84,7 @@ html,body {
 	opacity: .8;
 	transition: .3s opacity ease-in;
 	-webkit-transition: .3s opacity ease-in;
+	border-radius: 2px;
 }
 #footer #buttons ul li a:hover {
 	opacity: 1;
